@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Nimyears^^ 
 📫 My email:nimyears@gmail.com
 
-👹 LeetCode:https://leetcode.cn/u/aXudzMCCpz/ 
+👹 LeetCode:https://leetcode.cn/u/aXudzMCCpz
 
 🌟 Server: www.nimyears.com
 
