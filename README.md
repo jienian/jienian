@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Nimyears^^ 
-📫 My email:nimyears@gmail.com
+📫 My email:nimyears@gmail.com 
 
 👹 LeetCode:https://leetcode.cn/u/aXudzMCCpz
 
