@@ -5,7 +5,8 @@
 
 🌟 Server: www.nimyears.com // Server Unavailable. :(
 
-🌱 I’m currently learning Advance Jetpack Compose and Kotlin MultiPlatform.
+🌱 I’m currently learning  Jetpack Compose and Kotlin MultiPlatform.
+
 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
