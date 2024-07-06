@@ -10,6 +10,11 @@
 
 🌴 I'm currently learning TensorFlow Lite on Android.
 
+#################################
+##### 2024年GeemaHackathon的独立开发者  第一名🏆
+##### 2024年Google善创未来Hackathon的团队开发者  0️⃣
+##### 2024年AGI应用Hackathon的团队开发者   0️⃣
+
 
 
 
