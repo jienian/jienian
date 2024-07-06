@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Nimyears^^ 
+### 👋 Hi, I'm Nimyears, a Deaf Android Software Engineer with a passion for creating accessible and innovative mobile experiences.:)
 📫 My email:nimyears@gmail.com 
 
 👹 LeetCode:https://leetcode.cn/u/aXudzMCCpz
