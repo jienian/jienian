@@ -1,4 +1,5 @@
 ### 👋 Hi, I'm Nimyears, a Deaf Android Software Engineer with a passion for creating accessible and innovative mobile experiences.:)
+
 📫 My email:nimyears@gmail.com 
 
 👹 LeetCode:https://leetcode.cn/u/aXudzMCCpz
@@ -6,6 +7,9 @@
 🌟 Server: www.nimyears.com // Server Unavailable. :(
 
 🌱 I’m currently learning  Jetpack Compose and Kotlin MultiPlatform.
+
+🌴 I'm currently learning TensorFlow Lite on Android.
+
 
 
 
