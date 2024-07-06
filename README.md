@@ -1,5 +1,13 @@
 ### 👋 Hi, I'm Nimyears, a Deaf Android Software Engineer with a passion for creating accessible and innovative mobile experiences.:)
 
+#################################################
+
+##### 2024年GeemaHackathon的独立开发者  第一名🏆
+##### 2024年Google善创未来Hackathon的团队开发者  0️⃣
+##### 2024年AGI应用Hackathon的团队开发者   0️⃣
+
+#################################################
+
 📫 My email:nimyears@gmail.com 
 
 👹 LeetCode:https://leetcode.cn/u/aXudzMCCpz
@@ -10,10 +18,6 @@
 
 🌴 I'm currently learning TensorFlow Lite on Android.
 
-#################################
-##### 2024年GeemaHackathon的独立开发者  第一名🏆
-##### 2024年Google善创未来Hackathon的团队开发者  0️⃣
-##### 2024年AGI应用Hackathon的团队开发者   0️⃣
 
 
 
