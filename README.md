@@ -14,7 +14,7 @@
 
 🌟 Server: www.nimyears.com // Server Unavailable. :(
 
-🌱 I’m currently learning  Jetpack Compose and Kotlin MultiPlatform.
+🌱 With great enthusiasm, I'm mastering Jetpack Compose and Kotlin MultiPlatform for innovative cross-platform app development.
 
 🌴 I'm currently learning TensorFlow Lite on Android.
 
