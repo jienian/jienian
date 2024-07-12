@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Nimyears, a Deaf Android Software Engineer with a passion for creating accessible and innovative mobile experiences.:)
 
 #################################################
-
+##### 2024年智在畅想黑客马拉松的独立开发者 正在比赛中
 ##### 2024年GemmaHackathon的独立开发者  第一名🏆
 ##### 2024年广东省深圳市残疾编程项目竞赛 第一名🥇
 ##### 2024年Google善创未来Hackathon的团队开发者  0️⃣
