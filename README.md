@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/77e13565-b51a-4fac-8bfe-68836fbb5daa)### 👋 Hi, I'm Nimyears, a Deaf Android Software Engineer with a passion for creating accessible and innovative mobile experiences.:)
+### 👋 Hi, I'm Nimyears, a Deaf Android Software Engineer with a passion for creating accessible and innovative mobile experiences.:)
 
 #################################################
 ##### 2024年智在畅想黑客马拉松的独立开发者 0️⃣
