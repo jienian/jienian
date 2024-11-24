@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Nimyears, a Deaf Android Software Engineer with a passion for creating accessible and innovative mobile experiences.:)
+### 👋 Hi, I’m Nimyears, a Deaf Android Software Engineer born in 1997, with a passion for creating accessible and innovative mobile experiences. :)
 
 #################################################
 ##### 2024年智在畅想黑客马拉松的独立开发者 0️⃣
