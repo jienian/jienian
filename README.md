@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Nimyears, a Deaf Android Software Engineer born in 1997, with a passion for creating accessible and innovative mobile experiences. :)
+### 👋 Hi, I’m Nimyears, a Deaf Android Software Engineer  at HSBC and born in 1997, I won 1st place at the 2024 Gemma Hackathon and 2nd place at the 2024 Gemma2 Hackathon as an independent developer. I specialize in Android development and thrive in competitive tech challenges, with a passion for creating accessible and innovative mobile experiences. :)
 
 #################################################
 ##### 2024年智在畅想黑客马拉松的独立开发者 0️⃣
