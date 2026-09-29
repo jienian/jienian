@@ -8,6 +8,13 @@
 ##### 2024年腾讯云AI代码助手的AI开发者 冠军🏆
 ##### 2024年腾讯混元大模型AIGC的技术开发者 优秀贡献奖（评级A）
 ##### 2024年Gemma2 Hackathon的独立开发者  亚军🥈
+##### 2026年腾讯龙虾会竞赛 亚军🥈
+
+##### other
+• 通义灵码AI开发者: https://developer.aliyun.com/article/1633507 
+
+• 腾讯开发者: https://cloud.tencent.com/developer/user/7710698
+
 #################################################
 
 📫 My email:nimyears@gmail.com 
